@@ -2,7 +2,7 @@
 - 👀 I’m interested in inevation of technology
 - 🌱 I’m currently learning to develop Electromechanical Systems
 - 💞️ I’m looking to collaborate on Communication system 
-- 📫 How to reach me Twitter
+- 📫 You Reached me Twitter account @AshfaqMadad
 
 <!---
 Ashfaqmadad/Ashfaqmadad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
